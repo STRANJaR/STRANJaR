@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @STRANJaR
+- 👋 Hi, I’m Rohit Shrivastav.
 - 👀 I’m interested in Coding & Development.
 - 🌱 I’m currently learning JavaScript, React and much more ! 
 - 💞️ I’m looking to collaborate on..
